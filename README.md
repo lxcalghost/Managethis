@@ -1,6 +1,11 @@
 # Managethis
 A lightweight way to manage your HTPC.
 
+There may be small fixes here and there but for the most part there will be no more updates.
+A better, more robust PHP version is available at https://github.com/mescon/MTPHP
+
+-----------------
+
 This is based off of: https://codyhouse.co/gem/responsive-tabbed-navigation/
 
 This is a lightweight way to manage your HTPC apps without having to run anything extra, all you need is to have a webserver. It basically acts as a portal for all of your apps in once place so you don't need to keep multiple tabs open.
