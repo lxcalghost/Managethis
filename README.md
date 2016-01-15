@@ -2,7 +2,7 @@
 A lightweight way to manage your HTPC.
 
 There may be small fixes here and there but for the most part there will be no more updates.
-A better, more robust PHP version is available at https://github.com/mescon/MTPHP
+A better, more robust PHP version is available at https://github.com/mescon/Muximux
 
 -----------------
 
