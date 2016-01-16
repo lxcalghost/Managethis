@@ -1,8 +1,9 @@
 # Managethis
 A lightweight way to manage your HTPC.
 
-There may be small fixes here and there but for the most part there will be no more updates.
-A better, more robust PHP version is available at https://github.com/mescon/Muximux
+There will be no more updates.
+A more robust PHP version is available at https://github.com/mescon/Muximux
+A NodeJS version with a built-in webserver in available at https://github.com/onedr0p/manage-this-node
 
 -----------------
 
