@@ -2,7 +2,9 @@
 A lightweight way to manage your HTPC.
 
 There will be no more updates.
+
 A more robust PHP version is available at https://github.com/mescon/Muximux
+
 A NodeJS version with a built-in webserver in available at https://github.com/onedr0p/manage-this-node
 
 -----------------
