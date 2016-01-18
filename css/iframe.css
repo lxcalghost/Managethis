@@ -1,13 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:200,300,400,700);
-@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css);
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
 * {
   margin: 0;
   padding: 0;
 }
 
 html {
-  background: url(images/landing-bg.jpg) no-repeat center center fixed;
+  background: url(../images/landing-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

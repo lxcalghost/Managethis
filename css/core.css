@@ -1,51 +1,46 @@
-/* -------------------------------- 
-
-Primary style
-
+/*csslint universal-selector: false, box-sizing: false */
+/* --------------------------------
+        Primary style
 -------------------------------- */
 *, *::after, *::before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 *::after, *::before {
-  content: '';
+    content: '';
 }
 
 body {
-  font-size: 0px;
-  font-family: "PT Sans", sans-serif;
+    font-size: 0;
+    font-family: "PT Sans", sans-serif;
 }
 
 a {
-  text-decoration: none;
-}
-
-a:hover, a:visited, a:link, a:active
-{
     text-decoration: none;
 }
 
-/* -------------------------------- 
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
 
-Main components 
-
+/* --------------------------------
+        Main components
 -------------------------------- */
 
 .cd-tabs nav {
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
-  box-shadow: inset 0 -2px 3px rgba(203, 196, 130, 0.06);
-  }
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    box-shadow: inset 0 -2px 3px rgba(203, 196, 130, 0.06);
 }
 @media only screen and (min-width: 0px) {
-  .cd-tabs nav {
-    position: relative;
-    float: none;
-    background: transparent;
-    box-shadow: none;
-  }
+    .cd-tabs nav {
+        position: relative;
+        float: none;
+        background: transparent;
+        box-shadow: none;
+    }
 }
 
 .cd-tabs-navigation {
@@ -168,4 +163,3 @@ Main components
     margin: 0px;
     padding: 0px;
 }
-
