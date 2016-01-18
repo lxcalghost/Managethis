@@ -1,0 +1,68 @@
+{
+    "services": [
+        {
+            "name": "couchpotato",
+            "icons": {
+                "nav": "fa fa-television fa-lg",
+                "landingpage": "fa fa-television fa-3x"
+            },
+            "url": "http://192.168.1.150:5050"
+        }, {
+            "name": "glances",
+            "icons": {
+                "nav": "glyphicon glyphicon-dashboard fa-lg",
+                "landingpage": "glyphicon glyphicon-dashboard fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "headphones",
+            "icons": {
+                "nav": "glyphicon glyphicon-headphones fa-lg",
+                "landingpage": "glyphicon glyphicon-headphones fa-3x"
+            },
+            "url": "http://192.168.1.150:8181"
+        }, {
+            "name": "nzbget",
+            "icons": {
+                "nav": "fa fa-download fa-lg",
+                "landingpage": "fa fa-download fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "plex",
+            "icons": {
+                "nav": "fa fa-play-circle fa-lg",
+                "landingpage": "fa fa-play-circle fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "plexpy",
+            "icons": {
+                "nav": "fa fa-server fa-lg",
+                "landingpage": "fa fa-server fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "plexrequests",
+            "icons": {
+                "nav": "glyphicon glyphicon-bullhorn fa-lg",
+                "landingpage": "glyphicon glyphicon-bullhorn fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "rutorrent",
+            "icons": {
+                "nav": "fa fa-globe fa-lg",
+                "landingpage": "fa fa-globe fa-3x"
+            },
+            "url": ""
+        }, {
+            "name": "sonarr",
+            "icons": {
+                "nav": "glyphicon glyphicon-calendar fa-lg",
+                "landingpage": "fa fa-calendar fa-3x"
+            },
+            "url": ""
+        }
+    ]
+}

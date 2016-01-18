@@ -1,0 +1,25 @@
+{
+  "name": "Managethis",
+  "homepage": "https://github.com/OmgImAlexis/Managethis",
+  "authors": [
+    "X O <xo@wvvw.me>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "PTSans": "https://google-fonts.azurewebsites.net/googleFonts/PTSans?family=PT+Sans:400",
+    "reset-css": "~2.0.2011012602",
+    "modernizr-built": "~3.2.0"
+  }
+}

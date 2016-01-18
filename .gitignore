@@ -1,0 +1,21 @@
+# Dot files #
+######################
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Grunt #
+######################
+bower_components
+node_modules
+dist

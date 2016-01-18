@@ -1,0 +1,21 @@
+{
+    "maxerr": 2,
+    "bitwise": true,
+    "browser": true,
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "freeze": true,
+    "indent": 4,
+    "latedef": true,
+    "noarg": true,
+    "node": true,
+    "noempty": true,
+    "nonbsp": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "$": true
+    }
+}
